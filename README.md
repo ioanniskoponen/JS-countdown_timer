@@ -1,2 +1,2 @@
 # JS-countdown_timer
-Countdown timer
+Basic countdown timer (JavaScript)
